@@ -1,0 +1,9 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>403: Geen toegang</TITLE>
+</HEAD><BODY>
+<H1>Geen toegang</H1>
+U heeft niet de vereiste permissies om <!--#echo var="REQUEST_URI" --> aan te vragen op de server.
+<HR>
+<I><!--#echo var="HTTP_HOST" --></I>
+</BODY></HTML>

@@ -1,0 +1,9 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>400: Ongeldige aanvraag</TITLE>
+</HEAD><BODY>
+<H1>Ongeldige aanvraag</H1>
+Er zit een fout in uw aanvraag.
+<HR>
+<I><!--#echo var="HTTP_HOST" --></I>
+</BODY></HTML>

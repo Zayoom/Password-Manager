@@ -1,0 +1,9 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>401 Authenticatie vereist</TITLE>
+</HEAD><BODY>
+<H1>Authenticatie vereist</H1>
+De server kon niet verifiëren of u geauthoriseerd bent om deze URL te bezoeken. U heeft ofwel verkeerde informatie gestuurd (zoals een ongeldig wachtwoord), of uw browser begrijpt niet hoe de betreffende informatie gebracht moet worden.
+<HR>
+<I><!--#echo var="HTTP_HOST" --></I>
+</BODY></HTML>
